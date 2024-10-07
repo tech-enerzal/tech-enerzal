@@ -35,6 +35,7 @@
 
 - **GitHub Organization**: [Tech Enerzal GitHub](https://github.com/TechEnerzal)
 - **LinkedIn**: [Tech Enerzal LinkedIn](https://linkedin.com/company/techenerzal)
+- **Youtube**: [Tech Enerzal Youtube](https://youtube.com/)
 
 ---
 
