@@ -22,7 +22,7 @@
 
 | <img src="https://github.com/favicon.ico" alt="GitHub" width="20"/> **GitHub** | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/> **LinkedIn** | **Name**  | **Role & Expertise**               |
 |-----------------------------------------|----------------------------------------------|-------------------------|------------------------------------|
-| [@member1](https://github.com/member1)  | [LinkedIn](https://linkedin.com/in/member1)  | **Member 1**             | **AI/ML Researcher** <br> Specializes in NLP and MLOps. |
+| [@xoTEMPESTox](https://github.com/xoTEMPESTox)  | [LinkedIn](https://linkedin.com/in/priyanshu123sah)  | **Priyanshu Sah**             | **AI/ML Engineer** <br> Specializes in NLP, MLOps, and generative AI, with skills in full stack development for AI integration. Currently learning big data analysis to expand expertise in scalable AI solutions. |
 | [@member2](https://github.com/member2)  | [LinkedIn](https://linkedin.com/in/member2)  | **Member 2**             | **Cloud Architect** <br> Expert in cloud deployment & AI scaling. |
 | [@member3](https://github.com/member3)  | [LinkedIn](https://linkedin.com/in/member3)  | **Member 3**             | **MLOps Engineer** <br> Focuses on CI/CD and automation for ML models. |
 | [@member4](https://github.com/member4)  | [LinkedIn](https://linkedin.com/in/member4)  | **Member 4**             | **Backend Developer** <br> Specializes in API integration and backend systems. |
