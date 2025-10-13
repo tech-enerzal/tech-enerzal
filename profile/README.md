@@ -1,6 +1,6 @@
 
 
-<img src="Assets/ENERZAL_LOGO.jpg" alt="Enerzal Logo" style="width: 100px; height: 100px; margin-right: 15px;" align="left"/>  
+<img src="../Assets/ENERZAL_LOGO.jpg" alt="Enerzal Logo" style="width: 100px; height: 100px; margin-right: 15px;" align="left"/>  
 <h1 style="font-size: 1.8rem; font-weight: bold; color: #000;">Tech Enerzal <br> &nbsp; </h1>
 
 ## About Us
